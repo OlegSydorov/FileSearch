@@ -1,0 +1,60 @@
+C:\Users\Helge\source\repos\WPF_FileSearch\WPF_FileSearch\bin\Debug\WPF_FileSearch.exe.config
+C:\Users\Helge\source\repos\WPF_FileSearch\WPF_FileSearch\bin\Debug\WPF_FileSearch.exe
+C:\Users\Helge\source\repos\WPF_FileSearch\WPF_FileSearch\bin\Debug\WPF_FileSearch.pdb
+C:\Users\Helge\source\repos\WPF_FileSearch\WPF_FileSearch\obj\Debug\MainWindow.g.cs
+C:\Users\Helge\source\repos\WPF_FileSearch\WPF_FileSearch\obj\Debug\App.g.cs
+C:\Users\Helge\source\repos\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch_MarkupCompile.cache
+C:\Users\Helge\source\repos\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch_MarkupCompile.lref
+C:\Users\Helge\source\repos\WPF_FileSearch\WPF_FileSearch\obj\Debug\MainWindow.baml
+C:\Users\Helge\source\repos\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.g.resources
+C:\Users\Helge\source\repos\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.Properties.Resources.resources
+C:\Users\Helge\source\repos\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.csproj.GenerateResource.cache
+C:\Users\Helge\source\repos\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.csproj.CoreCompileInputs.cache
+C:\Users\Helge\source\repos\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.exe
+C:\Users\Helge\source\repos\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.pdb
+C:\Users\Helge\source\repos\WPF_FileSearch\WPF_FileSearch\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Helge\source\repos\WPF_FileSearch\WPF_FileSearch\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Helge\source\repos\WPF_FileSearch\WPF_FileSearch\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Helge\source\repos\WPF_FileSearch\WPF_FileSearch\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Helge\source\repos\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.csproj.CopyComplete
+C:\Users\Helge\source\repos\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.csprojAssemblyReference.cache
+E:\IT\CODE\HOME\HT 72 2021 12 11\WPF_FileSearch\WPF_FileSearch\bin\Debug\WPF_FileSearch.exe.config
+E:\IT\CODE\HOME\HT 72 2021 12 11\WPF_FileSearch\WPF_FileSearch\bin\Debug\WPF_FileSearch.exe
+E:\IT\CODE\HOME\HT 72 2021 12 11\WPF_FileSearch\WPF_FileSearch\bin\Debug\WPF_FileSearch.pdb
+E:\IT\CODE\HOME\HT 72 2021 12 11\WPF_FileSearch\WPF_FileSearch\bin\Debug\Microsoft.WindowsAPICodePack.dll
+E:\IT\CODE\HOME\HT 72 2021 12 11\WPF_FileSearch\WPF_FileSearch\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+E:\IT\CODE\HOME\HT 72 2021 12 11\WPF_FileSearch\WPF_FileSearch\bin\Debug\Microsoft.WindowsAPICodePack.xml
+E:\IT\CODE\HOME\HT 72 2021 12 11\WPF_FileSearch\WPF_FileSearch\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+E:\IT\CODE\HOME\HT 72 2021 12 11\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.csprojAssemblyReference.cache
+E:\IT\CODE\HOME\HT 72 2021 12 11\WPF_FileSearch\WPF_FileSearch\obj\Debug\MainWindow.g.cs
+E:\IT\CODE\HOME\HT 72 2021 12 11\WPF_FileSearch\WPF_FileSearch\obj\Debug\App.g.cs
+E:\IT\CODE\HOME\HT 72 2021 12 11\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch_MarkupCompile.cache
+E:\IT\CODE\HOME\HT 72 2021 12 11\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch_MarkupCompile.lref
+E:\IT\CODE\HOME\HT 72 2021 12 11\WPF_FileSearch\WPF_FileSearch\obj\Debug\MainWindow.baml
+E:\IT\CODE\HOME\HT 72 2021 12 11\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.g.resources
+E:\IT\CODE\HOME\HT 72 2021 12 11\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.Properties.Resources.resources
+E:\IT\CODE\HOME\HT 72 2021 12 11\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.csproj.GenerateResource.cache
+E:\IT\CODE\HOME\HT 72 2021 12 11\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.csproj.CoreCompileInputs.cache
+E:\IT\CODE\HOME\HT 72 2021 12 11\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.csproj.CopyComplete
+E:\IT\CODE\HOME\HT 72 2021 12 11\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.exe
+E:\IT\CODE\HOME\HT 72 2021 12 11\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.pdb
+E:\Projects\System\WPF_FileSearch\WPF_FileSearch\bin\Debug\WPF_FileSearch.exe.config
+E:\Projects\System\WPF_FileSearch\WPF_FileSearch\bin\Debug\WPF_FileSearch.exe
+E:\Projects\System\WPF_FileSearch\WPF_FileSearch\bin\Debug\WPF_FileSearch.pdb
+E:\Projects\System\WPF_FileSearch\WPF_FileSearch\bin\Debug\Microsoft.WindowsAPICodePack.dll
+E:\Projects\System\WPF_FileSearch\WPF_FileSearch\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+E:\Projects\System\WPF_FileSearch\WPF_FileSearch\bin\Debug\Microsoft.WindowsAPICodePack.xml
+E:\Projects\System\WPF_FileSearch\WPF_FileSearch\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+E:\Projects\System\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.csprojAssemblyReference.cache
+E:\Projects\System\WPF_FileSearch\WPF_FileSearch\obj\Debug\MainWindow.g.cs
+E:\Projects\System\WPF_FileSearch\WPF_FileSearch\obj\Debug\App.g.cs
+E:\Projects\System\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch_MarkupCompile.cache
+E:\Projects\System\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch_MarkupCompile.lref
+E:\Projects\System\WPF_FileSearch\WPF_FileSearch\obj\Debug\MainWindow.baml
+E:\Projects\System\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.g.resources
+E:\Projects\System\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.Properties.Resources.resources
+E:\Projects\System\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.csproj.GenerateResource.cache
+E:\Projects\System\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.csproj.CoreCompileInputs.cache
+E:\Projects\System\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.csproj.CopyComplete
+E:\Projects\System\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.exe
+E:\Projects\System\WPF_FileSearch\WPF_FileSearch\obj\Debug\WPF_FileSearch.pdb

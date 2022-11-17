@@ -1,0 +1,5 @@
+C:\Users\Helge\source\repos\WPF_FileSearch\PinkSkin\bin\Debug\PinkSkin.dll
+C:\Users\Helge\source\repos\WPF_FileSearch\PinkSkin\bin\Debug\PinkSkin.pdb
+C:\Users\Helge\source\repos\WPF_FileSearch\PinkSkin\obj\Debug\PinkSkin.csproj.CoreCompileInputs.cache
+C:\Users\Helge\source\repos\WPF_FileSearch\PinkSkin\obj\Debug\PinkSkin.dll
+C:\Users\Helge\source\repos\WPF_FileSearch\PinkSkin\obj\Debug\PinkSkin.pdb

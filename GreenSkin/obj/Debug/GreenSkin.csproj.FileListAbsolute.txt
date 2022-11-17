@@ -1,0 +1,5 @@
+C:\Users\Helge\source\repos\WPF_FileSearch\GreenSkin\obj\Debug\GreenSkin.csproj.CoreCompileInputs.cache
+C:\Users\Helge\source\repos\WPF_FileSearch\GreenSkin\bin\Debug\GreenSkin.dll
+C:\Users\Helge\source\repos\WPF_FileSearch\GreenSkin\bin\Debug\GreenSkin.pdb
+C:\Users\Helge\source\repos\WPF_FileSearch\GreenSkin\obj\Debug\GreenSkin.dll
+C:\Users\Helge\source\repos\WPF_FileSearch\GreenSkin\obj\Debug\GreenSkin.pdb

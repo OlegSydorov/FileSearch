@@ -1,0 +1,5 @@
+C:\Users\Helge\source\repos\WPF_FileSearch\DefaultSkin\bin\Debug\DefaultSkin.dll
+C:\Users\Helge\source\repos\WPF_FileSearch\DefaultSkin\bin\Debug\DefaultSkin.pdb
+C:\Users\Helge\source\repos\WPF_FileSearch\DefaultSkin\obj\Debug\DefaultSkin.csproj.CoreCompileInputs.cache
+C:\Users\Helge\source\repos\WPF_FileSearch\DefaultSkin\obj\Debug\DefaultSkin.dll
+C:\Users\Helge\source\repos\WPF_FileSearch\DefaultSkin\obj\Debug\DefaultSkin.pdb

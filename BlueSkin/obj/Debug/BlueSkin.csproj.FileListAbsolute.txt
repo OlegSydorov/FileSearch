@@ -1,0 +1,5 @@
+C:\Users\Helge\source\repos\WPF_FileSearch\BlueSkin\bin\Debug\BlueSkin.dll
+C:\Users\Helge\source\repos\WPF_FileSearch\BlueSkin\bin\Debug\BlueSkin.pdb
+C:\Users\Helge\source\repos\WPF_FileSearch\BlueSkin\obj\Debug\BlueSkin.csproj.CoreCompileInputs.cache
+C:\Users\Helge\source\repos\WPF_FileSearch\BlueSkin\obj\Debug\BlueSkin.dll
+C:\Users\Helge\source\repos\WPF_FileSearch\BlueSkin\obj\Debug\BlueSkin.pdb

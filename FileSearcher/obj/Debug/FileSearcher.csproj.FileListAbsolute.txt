@@ -1,0 +1,14 @@
+C:\Users\Helge\source\repos\WPF_FileSearch\FileSearcher\bin\Debug\FileSearcher.dll
+C:\Users\Helge\source\repos\WPF_FileSearch\FileSearcher\bin\Debug\FileSearcher.pdb
+C:\Users\Helge\source\repos\WPF_FileSearch\FileSearcher\obj\Debug\FileSearcher.csproj.CoreCompileInputs.cache
+C:\Users\Helge\source\repos\WPF_FileSearch\FileSearcher\obj\Debug\FileSearcher.dll
+C:\Users\Helge\source\repos\WPF_FileSearch\FileSearcher\obj\Debug\FileSearcher.pdb
+C:\Users\Helge\source\repos\WPF_FileSearch\FileSearcher\obj\Debug\FileSearcher.csprojAssemblyReference.cache
+C:\Users\Helge\source\repos\WPF_FileSearch\FileSearcher\bin\Debug\WPF_FileSearch.exe
+C:\Users\Helge\source\repos\WPF_FileSearch\FileSearcher\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Helge\source\repos\WPF_FileSearch\FileSearcher\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Helge\source\repos\WPF_FileSearch\FileSearcher\bin\Debug\WPF_FileSearch.pdb
+C:\Users\Helge\source\repos\WPF_FileSearch\FileSearcher\bin\Debug\WPF_FileSearch.exe.config
+C:\Users\Helge\source\repos\WPF_FileSearch\FileSearcher\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Helge\source\repos\WPF_FileSearch\FileSearcher\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Helge\source\repos\WPF_FileSearch\FileSearcher\obj\Debug\FileSearcher.csproj.CopyComplete
